@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0BAEC687-3C96-4F0B-B6F8-E2D65EA24636</key>
+		<key>0EC8281C-CA10-4BE0-A950-502F851C1101</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,63 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0BAEC687-3C96-4F0B-B6F8-E2D65EA24636.xcactivitylog</string>
+			<string>0EC8281C-CA10-4BE0-A950-502F851C1101.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>700838059.57123899</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>0EC8281C-CA10-4BE0-A950-502F851C1101</string>
+		</dict>
+		<key>110C9765-9ACA-4F55-A9E9-F1328240AE58</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>110C9765-9ACA-4F55-A9E9-F1328240AE58.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838565.37904406</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>110C9765-9ACA-4F55-A9E9-F1328240AE58</string>
+		</dict>
+		<key>260E2B91-740E-4CB3-B013-F00F0158D127</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>260E2B91-740E-4CB3-B013-F00F0158D127.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,43 +82,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700830313.37181199</real>
-			<key>timeStoppedRecording</key>
-			<real>700830313.45333505</real>
-			<key>title</key>
-			<string>Build 02-transformation</string>
-			<key>uniqueIdentifier</key>
-			<string>0BAEC687-3C96-4F0B-B6F8-E2D65EA24636</string>
-		</dict>
-		<key>255913C1-DE0B-484B-AE8F-067FDB14443C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>255913C1-DE0B-484B-AE8F-067FDB14443C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMERGRUY5NUIyOUMzMzkzNTAwMkY2OEQ3In0=</string>
-			<key>timeStartedRecording</key>
-			<real>700830336.78233898</real>
+			<real>700838478.47318304</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 01-hello_triangle</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>255913C1-DE0B-484B-AE8F-067FDB14443C</string>
+			<string>260E2B91-740E-4CB3-B013-F00F0158D127</string>
 		</dict>
-		<key>25ECD25C-489A-4155-9519-F029491ED8F8</key>
+		<key>2AB1B5B5-71B8-4DC9-BD99-081B421E96C5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -71,7 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>25ECD25C-489A-4155-9519-F029491ED8F8.xcactivitylog</string>
+			<string>2AB1B5B5-71B8-4DC9-BD99-081B421E96C5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -80,17 +108,17 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMERGRUY5N0YyOUM0QkMxQTAwMkY2OEQ3In0=</string>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700824488.13907695</real>
+			<real>700838525.55157006</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>25ECD25C-489A-4155-9519-F029491ED8F8</string>
+			<string>2AB1B5B5-71B8-4DC9-BD99-081B421E96C5</string>
 		</dict>
-		<key>27B43AC9-6476-46C3-868F-84F156FA14AE</key>
+		<key>403047CA-F680-46CE-83C0-BFFA3542BC29</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -99,63 +127,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>27B43AC9-6476-46C3-868F-84F156FA14AE.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>700830313.37181199</real>
-			<key>timeStoppedRecording</key>
-			<real>700830313.45333505</real>
-			<key>title</key>
-			<string>Build 02-transformation</string>
-			<key>uniqueIdentifier</key>
-			<string>27B43AC9-6476-46C3-868F-84F156FA14AE</string>
-		</dict>
-		<key>29F51B23-E821-4E4E-9519-59CA41D619D9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>29F51B23-E821-4E4E-9519-59CA41D619D9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>700824488.13907695</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build 02-transformation</string>
-			<key>uniqueIdentifier</key>
-			<string>29F51B23-E821-4E4E-9519-59CA41D619D9</string>
-		</dict>
-		<key>2E4B36F7-808B-4653-96B3-CE719712A5FA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>2E4B36F7-808B-4653-96B3-CE719712A5FA.xcactivitylog</string>
+			<string>403047CA-F680-46CE-83C0-BFFA3542BC29.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -166,15 +138,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700830691.17396796</real>
+			<real>700838059.57123899</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>2E4B36F7-808B-4653-96B3-CE719712A5FA</string>
+			<string>403047CA-F680-46CE-83C0-BFFA3542BC29</string>
 		</dict>
-		<key>3357F72A-EF51-496B-B148-BD3A7E92CB20</key>
+		<key>44F32F14-BDC2-49A5-B88D-2EAFFE6654E6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -183,7 +155,35 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>3357F72A-EF51-496B-B148-BD3A7E92CB20.xcactivitylog</string>
+			<string>44F32F14-BDC2-49A5-B88D-2EAFFE6654E6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700835554.36403</real>
+			<key>timeStoppedRecording</key>
+			<real>700835555.93168497</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>44F32F14-BDC2-49A5-B88D-2EAFFE6654E6</string>
+		</dict>
+		<key>49F631A0-A2C6-48F8-927B-44A4E3EA5CCC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>49F631A0-A2C6-48F8-927B-44A4E3EA5CCC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -194,15 +194,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700824488.13907695</real>
+			<real>700838418.38359702</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>3357F72A-EF51-496B-B148-BD3A7E92CB20</string>
+			<string>49F631A0-A2C6-48F8-927B-44A4E3EA5CCC</string>
 		</dict>
-		<key>35BF61FF-DCF6-47FE-8F92-A29339E607CD</key>
+		<key>59FA1E2E-C04E-4B76-8209-D9962E5CC9C4</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -211,63 +211,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>35BF61FF-DCF6-47FE-8F92-A29339E607CD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMERGRUY5NUIyOUMzMzkzNTAwMkY2OEQ3In0=</string>
-			<key>timeStartedRecording</key>
-			<real>700708797.00622797</real>
-			<key>timeStoppedRecording</key>
-			<real>700708799.30486</real>
-			<key>title</key>
-			<string>Build for Previews 01-hello_triangle</string>
-			<key>uniqueIdentifier</key>
-			<string>35BF61FF-DCF6-47FE-8F92-A29339E607CD</string>
-		</dict>
-		<key>3D96E949-F93B-4999-AF1F-656E52EA729A</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3D96E949-F93B-4999-AF1F-656E52EA729A.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMERGRUY5N0YyOUM0QkMxQTAwMkY2OEQ3In0=</string>
-			<key>timeStartedRecording</key>
-			<real>700824502.55140102</real>
-			<key>timeStoppedRecording</key>
-			<real>700824502.590343</real>
-			<key>title</key>
-			<string>Build 02-transformation</string>
-			<key>uniqueIdentifier</key>
-			<string>3D96E949-F93B-4999-AF1F-656E52EA729A</string>
-		</dict>
-		<key>4C57A25F-64DA-46EA-8D44-CD2EA9F9B3CE</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4C57A25F-64DA-46EA-8D44-CD2EA9F9B3CE.xcactivitylog</string>
+			<string>59FA1E2E-C04E-4B76-8209-D9962E5CC9C4.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -278,15 +222,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>700830336.78233898</real>
+			<real>700838565.37904406</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 01-hello_triangle</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>4C57A25F-64DA-46EA-8D44-CD2EA9F9B3CE</string>
+			<string>59FA1E2E-C04E-4B76-8209-D9962E5CC9C4</string>
 		</dict>
-		<key>53F9008A-281E-4961-9C73-1D886F8D58DF</key>
+		<key>5B1F184C-5FD6-43A7-9776-BE4A73B9F886</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -295,7 +239,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>53F9008A-281E-4961-9C73-1D886F8D58DF.xcactivitylog</string>
+			<string>5B1F184C-5FD6-43A7-9776-BE4A73B9F886.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -306,15 +250,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>700708797.00622797</real>
+			<real>700838478.47318304</real>
 			<key>timeStoppedRecording</key>
-			<real>700708799.30486</real>
+			<real>63113904000</real>
 			<key>title</key>
-			<string>Build for Previews 01-hello_triangle</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>53F9008A-281E-4961-9C73-1D886F8D58DF</string>
+			<string>5B1F184C-5FD6-43A7-9776-BE4A73B9F886</string>
 		</dict>
-		<key>8BEA835E-FA8D-4321-8F7D-E5F14D575A99</key>
+		<key>60D99BE9-F122-4E0C-9BBD-0553A193D221</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -323,7 +267,91 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8BEA835E-FA8D-4321-8F7D-E5F14D575A99.xcactivitylog</string>
+			<string>60D99BE9-F122-4E0C-9BBD-0553A193D221.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838437.20529497</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>60D99BE9-F122-4E0C-9BBD-0553A193D221</string>
+		</dict>
+		<key>69DBB4A9-AD27-4C6C-B4E4-5303732E2D4C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>69DBB4A9-AD27-4C6C-B4E4-5303732E2D4C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838286.76161206</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>69DBB4A9-AD27-4C6C-B4E4-5303732E2D4C</string>
+		</dict>
+		<key>6ED90DAA-7A10-4D72-A41F-4B6D21092F25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6ED90DAA-7A10-4D72-A41F-4B6D21092F25.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838543.94248295</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>6ED90DAA-7A10-4D72-A41F-4B6D21092F25</string>
+		</dict>
+		<key>73E11173-4C53-49E4-829D-47DFFF1AC7CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>73E11173-4C53-49E4-829D-47DFFF1AC7CF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -334,15 +362,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>700824502.55140102</real>
+			<real>700838418.38359702</real>
 			<key>timeStoppedRecording</key>
-			<real>700824502.590343</real>
+			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>8BEA835E-FA8D-4321-8F7D-E5F14D575A99</string>
+			<string>73E11173-4C53-49E4-829D-47DFFF1AC7CF</string>
 		</dict>
-		<key>9806C1FB-2C55-4FAC-AB2F-D19F8231BA10</key>
+		<key>77E18A1C-5560-45E7-B3B5-4D12B6EC3C21</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -351,7 +379,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9806C1FB-2C55-4FAC-AB2F-D19F8231BA10.xcactivitylog</string>
+			<string>77E18A1C-5560-45E7-B3B5-4D12B6EC3C21.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -360,17 +388,17 @@
 				<string>E</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMERGRUY5N0YyOUM0QkMxQTAwMkY2OEQ3In0=</string>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700830683.295982</real>
+			<real>700838059.57123899</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>9806C1FB-2C55-4FAC-AB2F-D19F8231BA10</string>
+			<string>77E18A1C-5560-45E7-B3B5-4D12B6EC3C21</string>
 		</dict>
-		<key>9F97B02D-317B-44F4-ADF4-3CB77725E014</key>
+		<key>7B127D25-C725-4836-8CF9-055FDE39A001</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -379,7 +407,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9F97B02D-317B-44F4-ADF4-3CB77725E014.xcactivitylog</string>
+			<string>7B127D25-C725-4836-8CF9-055FDE39A001.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -390,15 +418,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700830683.295982</real>
+			<real>700838525.55157006</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>9F97B02D-317B-44F4-ADF4-3CB77725E014</string>
+			<string>7B127D25-C725-4836-8CF9-055FDE39A001</string>
 		</dict>
-		<key>B5189500-1D9D-47A1-AFA2-0D81FD92E9CA</key>
+		<key>7F4DE9ED-8D43-4C80-AFE4-F81D47CDE7D7</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -407,7 +435,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B5189500-1D9D-47A1-AFA2-0D81FD92E9CA.xcactivitylog</string>
+			<string>7F4DE9ED-8D43-4C80-AFE4-F81D47CDE7D7.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -418,15 +446,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>700824458.21816504</real>
+			<real>700835554.36403</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>B5189500-1D9D-47A1-AFA2-0D81FD92E9CA</string>
+			<string>7F4DE9ED-8D43-4C80-AFE4-F81D47CDE7D7</string>
 		</dict>
-		<key>B5C96003-82D9-4280-BA42-2949688FFDC4</key>
+		<key>9C91393F-62F9-4114-BF23-809EE5298E98</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -435,26 +463,26 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B5C96003-82D9-4280-BA42-2949688FFDC4.xcactivitylog</string>
+			<string>9C91393F-62F9-4114-BF23-809EE5298E98.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMERGRUY5N0YyOUM0QkMxQTAwMkY2OEQ3In0=</string>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700830313.37181199</real>
+			<real>700838358.48142505</real>
 			<key>timeStoppedRecording</key>
-			<real>700830313.45333505</real>
+			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>B5C96003-82D9-4280-BA42-2949688FFDC4</string>
+			<string>9C91393F-62F9-4114-BF23-809EE5298E98</string>
 		</dict>
-		<key>B9FB29A1-10AC-4B65-B114-BDDC4831AEF7</key>
+		<key>9EA8A337-44F9-4AAA-89B5-C552C7F08C75</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -463,7 +491,63 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B9FB29A1-10AC-4B65-B114-BDDC4831AEF7.xcactivitylog</string>
+			<string>9EA8A337-44F9-4AAA-89B5-C552C7F08C75.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838286.76161206</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>9EA8A337-44F9-4AAA-89B5-C552C7F08C75</string>
+		</dict>
+		<key>A93D964B-A93C-4E54-858E-3CC2A2FDA36A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A93D964B-A93C-4E54-858E-3CC2A2FDA36A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838093.59888399</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>A93D964B-A93C-4E54-858E-3CC2A2FDA36A</string>
+		</dict>
+		<key>A96A80D0-2879-443F-8BDF-AC3AD5ACF6D0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A96A80D0-2879-443F-8BDF-AC3AD5ACF6D0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -474,15 +558,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>700830691.17396796</real>
+			<real>700838286.76161206</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>B9FB29A1-10AC-4B65-B114-BDDC4831AEF7</string>
+			<string>A96A80D0-2879-443F-8BDF-AC3AD5ACF6D0</string>
 		</dict>
-		<key>BA922227-2384-4478-BB08-E5E058868A48</key>
+		<key>ACCE90BC-D9B2-4761-8FA2-5151CCA5B48E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -491,91 +575,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BA922227-2384-4478-BB08-E5E058868A48.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
-			<key>timeStartedRecording</key>
-			<real>700824458.21816504</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build 02-transformation</string>
-			<key>uniqueIdentifier</key>
-			<string>BA922227-2384-4478-BB08-E5E058868A48</string>
-		</dict>
-		<key>C1D3B0CE-CF9A-4092-B3EF-B231329DE8FD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C1D3B0CE-CF9A-4092-B3EF-B231329DE8FD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMERGRUY5N0YyOUM0QkMxQTAwMkY2OEQ3In0=</string>
-			<key>timeStartedRecording</key>
-			<real>700830691.17396796</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build 02-transformation</string>
-			<key>uniqueIdentifier</key>
-			<string>C1D3B0CE-CF9A-4092-B3EF-B231329DE8FD</string>
-		</dict>
-		<key>C8CCBE26-0A3F-48B4-AB02-C287A2F86A81</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>C8CCBE26-0A3F-48B4-AB02-C287A2F86A81.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
-			<key>timeStartedRecording</key>
-			<real>700708797.00622797</real>
-			<key>timeStoppedRecording</key>
-			<real>700708799.30486</real>
-			<key>title</key>
-			<string>Build for Previews 01-hello_triangle</string>
-			<key>uniqueIdentifier</key>
-			<string>C8CCBE26-0A3F-48B4-AB02-C287A2F86A81</string>
-		</dict>
-		<key>D4E92581-738E-4185-BB49-1B27A625BDCA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D4E92581-738E-4185-BB49-1B27A625BDCA.xcactivitylog</string>
+			<string>ACCE90BC-D9B2-4761-8FA2-5151CCA5B48E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -586,15 +586,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
 			<key>timeStartedRecording</key>
-			<real>700830683.295982</real>
+			<real>700838358.48142505</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>D4E92581-738E-4185-BB49-1B27A625BDCA</string>
+			<string>ACCE90BC-D9B2-4761-8FA2-5151CCA5B48E</string>
 		</dict>
-		<key>E5A0261B-F350-421B-AE92-E14831C759E5</key>
+		<key>BBF95AF1-E788-4461-BBD8-D9808758C9D8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -603,7 +603,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E5A0261B-F350-421B-AE92-E14831C759E5.xcactivitylog</string>
+			<string>BBF95AF1-E788-4461-BBD8-D9808758C9D8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -612,17 +612,17 @@
 				<string>S</string>
 			</dict>
 			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMERGRUY5NUIyOUMzMzkzNTAwMkY2OEQ3In0=</string>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700708797.00622797</real>
+			<real>700838588.23315299</real>
 			<key>timeStoppedRecording</key>
-			<real>700708799.30486</real>
+			<real>63113904000</real>
 			<key>title</key>
-			<string>Build for Previews 01-hello_triangle</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>E5A0261B-F350-421B-AE92-E14831C759E5</string>
+			<string>BBF95AF1-E788-4461-BBD8-D9808758C9D8</string>
 		</dict>
-		<key>EDAAB49B-096F-4E73-8F16-D5F2CCF435A4</key>
+		<key>C4CA9500-3BD9-4F27-A6D8-DD4A4D186932</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -631,7 +631,119 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EDAAB49B-096F-4E73-8F16-D5F2CCF435A4.xcactivitylog</string>
+			<string>C4CA9500-3BD9-4F27-A6D8-DD4A4D186932.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>700838525.55157006</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>C4CA9500-3BD9-4F27-A6D8-DD4A4D186932</string>
+		</dict>
+		<key>D0A2BFFD-549A-49E0-9677-197D44EA6C76</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D0A2BFFD-549A-49E0-9677-197D44EA6C76.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>700838437.20529497</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>D0A2BFFD-549A-49E0-9677-197D44EA6C76</string>
+		</dict>
+		<key>D19F8968-D38A-46B7-B9E5-6EB465E311A7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D19F8968-D38A-46B7-B9E5-6EB465E311A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838418.38359702</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>D19F8968-D38A-46B7-B9E5-6EB465E311A7</string>
+		</dict>
+		<key>DCB0196F-CC4C-4BFB-83E4-2EC10FE537BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DCB0196F-CC4C-4BFB-83E4-2EC10FE537BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>700838543.94248295</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>DCB0196F-CC4C-4BFB-83E4-2EC10FE537BA</string>
+		</dict>
+		<key>E2526DD4-E4AE-41AE-94E6-BAF2C3C71E40</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2526DD4-E4AE-41AE-94E6-BAF2C3C71E40.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -642,15 +754,15 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700830336.78233898</real>
+			<real>700838358.48142505</real>
 			<key>timeStoppedRecording</key>
 			<real>63113904000</real>
 			<key>title</key>
-			<string>Build 01-hello_triangle</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>EDAAB49B-096F-4E73-8F16-D5F2CCF435A4</string>
+			<string>E2526DD4-E4AE-41AE-94E6-BAF2C3C71E40</string>
 		</dict>
-		<key>EDE47620-B21C-4672-B66A-889873215C69</key>
+		<key>E662C18A-F1F3-4F8A-9D72-73C8BCAD301A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -659,35 +771,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EDE47620-B21C-4672-B66A-889873215C69.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMERGRUY5N0YyOUM0QkMxQTAwMkY2OEQ3In0=</string>
-			<key>timeStartedRecording</key>
-			<real>700824458.21816504</real>
-			<key>timeStoppedRecording</key>
-			<real>700824461.71360195</real>
-			<key>title</key>
-			<string>Build 02-transformation</string>
-			<key>uniqueIdentifier</key>
-			<string>EDE47620-B21C-4672-B66A-889873215C69</string>
-		</dict>
-		<key>EE6D4084-F8BF-48E2-AD0B-6C45CCCA2A67</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EE6D4084-F8BF-48E2-AD0B-6C45CCCA2A67.xcactivitylog</string>
+			<string>E662C18A-F1F3-4F8A-9D72-73C8BCAD301A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -698,13 +782,265 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>700824502.55140102</real>
+			<real>700835554.36403</real>
 			<key>timeStoppedRecording</key>
-			<real>700824502.590343</real>
+			<real>700835555.93168497</real>
 			<key>title</key>
-			<string>Build 02-transformation</string>
+			<string>Build 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>EE6D4084-F8BF-48E2-AD0B-6C45CCCA2A67</string>
+			<string>E662C18A-F1F3-4F8A-9D72-73C8BCAD301A</string>
+		</dict>
+		<key>E694AA41-ED56-4FD1-916B-4DD11478195E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E694AA41-ED56-4FD1-916B-4DD11478195E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838093.59888399</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>E694AA41-ED56-4FD1-916B-4DD11478195E</string>
+		</dict>
+		<key>E9C3C9DC-92C6-45AD-849C-037F19E4DE45</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9C3C9DC-92C6-45AD-849C-037F19E4DE45.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838588.23315299</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>E9C3C9DC-92C6-45AD-849C-037F19E4DE45</string>
+		</dict>
+		<key>E9D1ADF4-DB70-4058-AE1D-CAB2EF2C4EE6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9D1ADF4-DB70-4058-AE1D-CAB2EF2C4EE6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Wb2x1bWVzXC9UN1wvRGV2XC9MZWFybk1ldGFsXC9MZWFybk1ldGFsXC9MZWFybk1ldGFsLnhjb2RlcHJvaiIsInR5cGUiOnsiYmx1ZXByaW50Ijp7fX0sImJsdWVwcmludF9ibHVlcHJpbnRJZGVudGlmaWVyIjoiMEQ3RDZFNTEyOUM1RTYzRDAwMzY4MjUwIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838478.47318304</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>E9D1ADF4-DB70-4058-AE1D-CAB2EF2C4EE6</string>
+		</dict>
+		<key>EB7272D1-DB75-465F-BF0D-A356E6508FA3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB7272D1-DB75-465F-BF0D-A356E6508FA3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838543.94248295</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>EB7272D1-DB75-465F-BF0D-A356E6508FA3</string>
+		</dict>
+		<key>ECA97414-382A-4792-9D90-D43DE8BF69AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ECA97414-382A-4792-9D90-D43DE8BF69AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>700838093.59888399</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>ECA97414-382A-4792-9D90-D43DE8BF69AD</string>
+		</dict>
+		<key>EF2926FE-DA29-476B-8CFC-E38F1C785803</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EF2926FE-DA29-476B-8CFC-E38F1C785803.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838565.37904406</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>EF2926FE-DA29-476B-8CFC-E38F1C785803</string>
+		</dict>
+		<key>F1D70A36-74C2-46A2-BF24-53DF12FAB19A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1D70A36-74C2-46A2-BF24-53DF12FAB19A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>700835554.36403</real>
+			<key>timeStoppedRecording</key>
+			<real>700835555.93168497</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>F1D70A36-74C2-46A2-BF24-53DF12FAB19A</string>
+		</dict>
+		<key>F588C885-C5EC-48A7-B378-BEA0FC527209</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F588C885-C5EC-48A7-B378-BEA0FC527209.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>700838588.23315299</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>F588C885-C5EC-48A7-B378-BEA0FC527209</string>
+		</dict>
+		<key>FBAE5D68-C9B9-4352-8D70-8244EA7EC051</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FBAE5D68-C9B9-4352-8D70-8244EA7EC051.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1ZvbHVtZXNcL1Q3XC9EZXZcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWxcL0xlYXJuTWV0YWwueGNvZGVwcm9qIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>700838437.20529497</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>FBAE5D68-C9B9-4352-8D70-8244EA7EC051</string>
 		</dict>
 	</dict>
 </dict>

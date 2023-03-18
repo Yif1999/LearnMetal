@@ -6,14 +6,14 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>6B5256CF-FB61-4892-8E32-BE8E8375265A</key>
+		<key>14D44CF7-5308-4011-8AAE-EFA64218B016</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B0A06314-C1F3-4BBC-B323-2B73EE7549A2</string>
+			<string>E8DAFB2C-2EB5-46EB-BC3D-42696E086A69</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -22,7 +22,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-01-hello_triangle-2023.03.18_19-05-36-+0800.xcresult</string>
+			<string>Run-03-load_obj_model-2023.03.18_21-14-19-+0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -32,33 +32,33 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>E</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>LearnMetal project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>01-hello_triangle</string>
+			<string>03-load_obj_model</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Run 01-hello_triangle</string>
+			<string>Run 03-load_obj_model</string>
 			<key>timeStartedRecording</key>
-			<real>700830336.78217995</real>
+			<real>700838059.57116199</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
-			<string>Run 01-hello_triangle</string>
+			<string>Run 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>6B5256CF-FB61-4892-8E32-BE8E8375265A</string>
+			<string>14D44CF7-5308-4011-8AAE-EFA64218B016</string>
 		</dict>
-		<key>936C6EAC-B465-4CB0-8394-355D1EC77C4D</key>
+		<key>2DE0FC58-89CE-4A77-A37D-83B809522FF5</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>6BB3CD22-8577-40AA-9969-2C216DCAE012</string>
+			<string>60A8D607-75ED-4D12-9F38-604F69A28855</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -67,7 +67,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-02--2023.03.18_19-11-31-+0800.xcresult</string>
+			<string>Run-03-load_obj_model-2023.03.18_21-14-53-+0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -77,74 +77,29 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>LearnMetal project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>02-</string>
+			<string>03-load_obj_model</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Run 02-</string>
+			<string>Run 03-load_obj_model</string>
 			<key>timeStartedRecording</key>
-			<real>700830691.17386305</real>
+			<real>700838093.59876394</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
-			<string>Run 02-</string>
+			<string>Run 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>936C6EAC-B465-4CB0-8394-355D1EC77C4D</string>
+			<string>2DE0FC58-89CE-4A77-A37D-83B809522FF5</string>
 		</dict>
-		<key>994AF0D9-4DDC-4B9D-B1AF-8ECF7C96C0E7</key>
+		<key>3F0BD49D-7735-495D-A1D7-233DEF23B097</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>AC3C41DD-1C72-4801-8406-639CB3CA0172</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-02--2023.03.18_19-11-23-+0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LearnMetal project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>02-</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run 02-</string>
-			<key>timeStartedRecording</key>
-			<real>700830683.295928</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run 02-</string>
-			<key>uniqueIdentifier</key>
-			<string>994AF0D9-4DDC-4B9D-B1AF-8ECF7C96C0E7</string>
-		</dict>
-		<key>999051C7-70C7-4350-9519-1AF210910695</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C79D7260-B4B5-44E8-BE16-17B6E6FB49FE</string>
+			<string>0AA8884B-DB29-4CC3-9DC1-168C21665107</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -157,97 +112,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-02--2023.03.18_17-28-22-+0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LearnMetal project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>02-</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run 02-</string>
-			<key>timeStartedRecording</key>
-			<real>700824502.55122101</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run 02-</string>
-			<key>uniqueIdentifier</key>
-			<string>999051C7-70C7-4350-9519-1AF210910695</string>
-		</dict>
-		<key>AE569D5C-70C0-4F16-B64D-D828A7A0E488</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>A7938DB1-665F-4BA7-B60C-40192B261E42</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-02--2023.03.18_17-28-08-+0800.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>LearnMetal project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>02-</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run 02-</string>
-			<key>timeStartedRecording</key>
-			<real>700824488.13887894</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run 02-</string>
-			<key>uniqueIdentifier</key>
-			<string>AE569D5C-70C0-4F16-B64D-D828A7A0E488</string>
-		</dict>
-		<key>B2DAA04D-F11E-460C-8B30-B3E0561853DE</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>C249B200-D129-4CCC-A30B-7B63AF08F4A3</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-01-hello_triangle-2023.03.16_23-58-39-+0800.xcresult</string>
+			<string>Run-03-load_obj_model-2023.03.18_21-22-05-+0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -262,28 +127,28 @@
 			<key>schemeIdentifier-containerName</key>
 			<string>LearnMetal project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>01-hello_triangle</string>
+			<string>03-load_obj_model</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Run 01-hello_triangle</string>
+			<string>Run 03-load_obj_model</string>
 			<key>timeStartedRecording</key>
-			<real>700675119.76936698</real>
+			<real>700838525.55151296</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
-			<string>Run 01-hello_triangle</string>
+			<string>Run 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>B2DAA04D-F11E-460C-8B30-B3E0561853DE</string>
+			<string>3F0BD49D-7735-495D-A1D7-233DEF23B097</string>
 		</dict>
-		<key>ED989605-361B-441B-992C-D30943425B73</key>
+		<key>43519640-CCBF-4B31-8CA2-1D5149ED97CB</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>722FC352-2B91-48CC-ABBA-8E7DD68F7203</string>
+			<string>97C4F4E2-DD1D-437F-9825-E4BC93DD3889</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -292,7 +157,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-02--2023.03.18_17-27-38-+0800.xcresult</string>
+			<string>Run-01-hello_triangle copy-2023.03.18_20-32-34-+0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -302,33 +167,33 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>LearnMetal project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>02-</string>
+			<string>01-hello_triangle copy</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Run 02-</string>
+			<string>Run 01-hello_triangle copy</string>
 			<key>timeStartedRecording</key>
-			<real>700824458.21693099</real>
+			<real>700835554.36377394</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
-			<string>Run 02-</string>
+			<string>Run 01-hello_triangle copy</string>
 			<key>uniqueIdentifier</key>
-			<string>ED989605-361B-441B-992C-D30943425B73</string>
+			<string>43519640-CCBF-4B31-8CA2-1D5149ED97CB</string>
 		</dict>
-		<key>EF05634F-478F-49D9-B384-8ED2E07F8D20</key>
+		<key>43661F80-D35A-4ED1-8695-AF3B12546940</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>94B2880C-AD79-4558-A0D1-888CBB480ED6</string>
+			<string>A33AB261-3074-44CB-A428-9781826E42F8</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>className</key>
 			<string>IDESchemeActionsInvocationRecord</string>
@@ -337,7 +202,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-02--2023.03.18_19-05-13-+0800.xcresult</string>
+			<string>Run-03-load_obj_model-2023.03.18_21-20-18-+0800.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -347,24 +212,294 @@
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>S</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>LearnMetal project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>02-</string>
+			<string>03-load_obj_model</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Run 02-</string>
+			<string>Run 03-load_obj_model</string>
 			<key>timeStartedRecording</key>
-			<real>700830313.37155402</real>
+			<real>700838418.38344097</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
-			<string>Run 02-</string>
+			<string>Run 03-load_obj_model</string>
 			<key>uniqueIdentifier</key>
-			<string>EF05634F-478F-49D9-B384-8ED2E07F8D20</string>
+			<string>43661F80-D35A-4ED1-8695-AF3B12546940</string>
+		</dict>
+		<key>73D04483-D924-4CA7-815F-4EDD9F680D83</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>4621FB18-18A1-4A9A-A004-E63068D98381</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-03-load_obj_model-2023.03.18_21-20-37-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LearnMetal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>03-load_obj_model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 03-load_obj_model</string>
+			<key>timeStartedRecording</key>
+			<real>700838437.20517194</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>73D04483-D924-4CA7-815F-4EDD9F680D83</string>
+		</dict>
+		<key>7E01F983-32BE-47AE-99C3-2027D2834260</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>14C71069-0CF3-4F59-B3E5-8D836E58F1D0</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-03-load_obj_model-2023.03.18_21-21-18-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LearnMetal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>03-load_obj_model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 03-load_obj_model</string>
+			<key>timeStartedRecording</key>
+			<real>700838478.47304904</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>7E01F983-32BE-47AE-99C3-2027D2834260</string>
+		</dict>
+		<key>A2A97E2E-6140-4CC0-A8D0-FEBFD3C54BF7</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8F230D48-7F87-4EE2-9895-A25480551045</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-03-load_obj_model-2023.03.18_21-22-45-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LearnMetal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>03-load_obj_model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 03-load_obj_model</string>
+			<key>timeStartedRecording</key>
+			<real>700838565.37898099</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>A2A97E2E-6140-4CC0-A8D0-FEBFD3C54BF7</string>
+		</dict>
+		<key>B31CF425-BA70-41BB-B5AC-0FD108FA895A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>D09B7761-D5C3-4D38-BB80-CBCEC6299D3B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-03-load_obj_model-2023.03.18_21-22-23-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LearnMetal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>03-load_obj_model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 03-load_obj_model</string>
+			<key>timeStartedRecording</key>
+			<real>700838543.94242501</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>B31CF425-BA70-41BB-B5AC-0FD108FA895A</string>
+		</dict>
+		<key>BA2299BA-E835-402A-8858-870BAFB2DF70</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>AFA57059-005D-4115-82A7-22940CE1B501</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-03-load_obj_model-2023.03.18_21-19-18-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LearnMetal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>03-load_obj_model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 03-load_obj_model</string>
+			<key>timeStartedRecording</key>
+			<real>700838358.48130596</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>BA2299BA-E835-402A-8858-870BAFB2DF70</string>
+		</dict>
+		<key>EDCF1BCD-B929-4C7D-AC4F-05650E569BDC</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5CBD786A-2AC2-4F61-8024-5C8A669CC9FB</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-03-load_obj_model-2023.03.18_21-18-06-+0800.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LearnMetal project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>03-load_obj_model</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run 03-load_obj_model</string>
+			<key>timeStartedRecording</key>
+			<real>700838286.76145899</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run 03-load_obj_model</string>
+			<key>uniqueIdentifier</key>
+			<string>EDCF1BCD-B929-4C7D-AC4F-05650E569BDC</string>
 		</dict>
 	</dict>
 </dict>
