@@ -7,21 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D7D6E3D29C5D25200368250 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E3C29C5D25200368250 /* ContentView.swift */; };
+		0D7D6E3F29C5D2A200368250 /* Renderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E3E29C5D2A200368250 /* Renderer.swift */; };
+		0D7D6E4129C5D2C500368250 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E4029C5D2C500368250 /* AppView.swift */; };
+		0D7D6E4329C5D2DB00368250 /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E4229C5D2DB00368250 /* Camera.swift */; };
+		0D7D6E4629C5D31C00368250 /* RenderScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E4529C5D31C00368250 /* RenderScene.swift */; };
+		0D7D6E4829C5D33600368250 /* Component.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E4729C5D33600368250 /* Component.swift */; };
+		0D7D6E4A29C5D35E00368250 /* TriangleMesh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E4929C5D35E00368250 /* TriangleMesh.swift */; };
+		0D7D6E4C29C5D37A00368250 /* LinearAlgebro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E4B29C5D37A00368250 /* LinearAlgebro.swift */; };
+		0D7D6E4E29C5D3BC00368250 /* LearnMetalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E4D29C5D3BC00368250 /* LearnMetalApp.swift */; };
+		0D7D6E5029C5D3D700368250 /* Shaders.metal in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E4F29C5D3D700368250 /* Shaders.metal */; };
 		0DFEF96029C33935002F68D7 /* LearnMetalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF95F29C33935002F68D7 /* LearnMetalApp.swift */; };
 		0DFEF96229C33935002F68D7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF96129C33935002F68D7 /* ContentView.swift */; };
-		0DFEF96429C33936002F68D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DFEF96329C33936002F68D7 /* Assets.xcassets */; };
 		0DFEF97929C33D8A002F68D7 /* Renderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF97829C33D8A002F68D7 /* Renderer.swift */; };
 		0DFEF97D29C3467A002F68D7 /* Shaders.metal in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF97C29C3467A002F68D7 /* Shaders.metal */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D7D6E3C29C5D25200368250 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0D7D6E3E29C5D2A200368250 /* Renderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Renderer.swift; sourceTree = "<group>"; };
+		0D7D6E4029C5D2C500368250 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		0D7D6E4229C5D2DB00368250 /* Camera.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
+		0D7D6E4429C5D2F500368250 /* ShaderTypes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShaderTypes.h; sourceTree = "<group>"; };
+		0D7D6E4529C5D31C00368250 /* RenderScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RenderScene.swift; sourceTree = "<group>"; };
+		0D7D6E4729C5D33600368250 /* Component.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Component.swift; sourceTree = "<group>"; };
+		0D7D6E4929C5D35E00368250 /* TriangleMesh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleMesh.swift; sourceTree = "<group>"; };
+		0D7D6E4B29C5D37A00368250 /* LinearAlgebro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinearAlgebro.swift; sourceTree = "<group>"; };
+		0D7D6E4D29C5D3BC00368250 /* LearnMetalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnMetalApp.swift; sourceTree = "<group>"; };
+		0D7D6E4F29C5D3D700368250 /* Shaders.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = Shaders.metal; sourceTree = "<group>"; };
 		0DFEF95C29C33935002F68D7 /* 01-hello_triangle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "01-hello_triangle.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DFEF95F29C33935002F68D7 /* LearnMetalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnMetalApp.swift; sourceTree = "<group>"; };
 		0DFEF96129C33935002F68D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		0DFEF96329C33936002F68D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0DFEF97829C33D8A002F68D7 /* Renderer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Renderer.swift; sourceTree = "<group>"; };
 		0DFEF97B29C3436F002F68D7 /* ShaderTypes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShaderTypes.h; sourceTree = "<group>"; };
 		0DFEF97C29C3467A002F68D7 /* Shaders.metal */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.metal; path = Shaders.metal; sourceTree = "<group>"; };
+		0DFEF98B29C4BC1A002F68D7 /* 02-transformation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "02-transformation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,12 +52,38 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		0DFEF98529C4BC1A002F68D7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0D7D6E3B29C5BB7B00368250 /* 02-transformation */ = {
+			isa = PBXGroup;
+			children = (
+				0D7D6E3C29C5D25200368250 /* ContentView.swift */,
+				0D7D6E3E29C5D2A200368250 /* Renderer.swift */,
+				0D7D6E4029C5D2C500368250 /* AppView.swift */,
+				0D7D6E4229C5D2DB00368250 /* Camera.swift */,
+				0D7D6E4429C5D2F500368250 /* ShaderTypes.h */,
+				0D7D6E4529C5D31C00368250 /* RenderScene.swift */,
+				0D7D6E4729C5D33600368250 /* Component.swift */,
+				0D7D6E4929C5D35E00368250 /* TriangleMesh.swift */,
+				0D7D6E4B29C5D37A00368250 /* LinearAlgebro.swift */,
+				0D7D6E4D29C5D3BC00368250 /* LearnMetalApp.swift */,
+				0D7D6E4F29C5D3D700368250 /* Shaders.metal */,
+			);
+			path = "02-transformation";
+			sourceTree = "<group>";
+		};
 		0DFEF95329C33935002F68D7 = {
 			isa = PBXGroup;
 			children = (
+				0D7D6E3B29C5BB7B00368250 /* 02-transformation */,
 				0DFEF95E29C33935002F68D7 /* 01-hello_triangle */,
 				0DFEF95D29C33935002F68D7 /* Products */,
 			);
@@ -47,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				0DFEF95C29C33935002F68D7 /* 01-hello_triangle.app */,
+				0DFEF98B29C4BC1A002F68D7 /* 02-transformation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -56,7 +103,6 @@
 			children = (
 				0DFEF95F29C33935002F68D7 /* LearnMetalApp.swift */,
 				0DFEF96129C33935002F68D7 /* ContentView.swift */,
-				0DFEF96329C33936002F68D7 /* Assets.xcassets */,
 				0DFEF97829C33D8A002F68D7 /* Renderer.swift */,
 				0DFEF97B29C3436F002F68D7 /* ShaderTypes.h */,
 				0DFEF97C29C3467A002F68D7 /* Shaders.metal */,
@@ -82,6 +128,23 @@
 			name = "01-hello_triangle";
 			productName = LearnMetal;
 			productReference = 0DFEF95C29C33935002F68D7 /* 01-hello_triangle.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0DFEF97F29C4BC1A002F68D7 /* 02-transformation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0DFEF98829C4BC1A002F68D7 /* Build configuration list for PBXNativeTarget "02-transformation" */;
+			buildPhases = (
+				0DFEF98029C4BC1A002F68D7 /* Sources */,
+				0DFEF98529C4BC1A002F68D7 /* Frameworks */,
+				0DFEF98629C4BC1A002F68D7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "02-transformation";
+			productName = LearnMetal;
+			productReference = 0DFEF98B29C4BC1A002F68D7 /* 02-transformation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -113,6 +176,7 @@
 			projectRoot = "";
 			targets = (
 				0DFEF95B29C33935002F68D7 /* 01-hello_triangle */,
+				0DFEF97F29C4BC1A002F68D7 /* 02-transformation */,
 			);
 		};
 /* End PBXProject section */
@@ -122,7 +186,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0DFEF96429C33936002F68D7 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0DFEF98629C4BC1A002F68D7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +207,23 @@
 				0DFEF96229C33935002F68D7 /* ContentView.swift in Sources */,
 				0DFEF97929C33D8A002F68D7 /* Renderer.swift in Sources */,
 				0DFEF96029C33935002F68D7 /* LearnMetalApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0DFEF98029C4BC1A002F68D7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D7D6E4629C5D31C00368250 /* RenderScene.swift in Sources */,
+				0D7D6E4829C5D33600368250 /* Component.swift in Sources */,
+				0D7D6E4329C5D2DB00368250 /* Camera.swift in Sources */,
+				0D7D6E3F29C5D2A200368250 /* Renderer.swift in Sources */,
+				0D7D6E5029C5D3D700368250 /* Shaders.metal in Sources */,
+				0D7D6E4E29C5D3BC00368250 /* LearnMetalApp.swift in Sources */,
+				0D7D6E3D29C5D25200368250 /* ContentView.swift in Sources */,
+				0D7D6E4C29C5D37A00368250 /* LinearAlgebro.swift in Sources */,
+				0D7D6E4129C5D2C500368250 /* AppView.swift in Sources */,
+				0D7D6E4A29C5D35E00368250 /* TriangleMesh.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -319,6 +406,66 @@
 			};
 			name = Release;
 		};
+		0DFEF98929C4BC1A002F68D7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"${TARGET_NAME}\"";
+				DEVELOPMENT_TEAM = R825KND2GK;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yif.LearnMetal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "${TARGET_NAME}/ShaderTypes.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0DFEF98A29C4BC1A002F68D7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"${TARGET_NAME}\"";
+				DEVELOPMENT_TEAM = R825KND2GK;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yif.LearnMetal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "${TARGET_NAME}/ShaderTypes.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -336,6 +483,15 @@
 			buildConfigurations = (
 				0DFEF96B29C33936002F68D7 /* Debug */,
 				0DFEF96C29C33936002F68D7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0DFEF98829C4BC1A002F68D7 /* Build configuration list for PBXNativeTarget "02-transformation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0DFEF98929C4BC1A002F68D7 /* Debug */,
+				0DFEF98A29C4BC1A002F68D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
