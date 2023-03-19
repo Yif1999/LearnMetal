@@ -30,6 +30,23 @@
 		0D7D6E7829C5EBE800368250 /* Meshes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E7729C5EBE800368250 /* Meshes.swift */; };
 		0D7D6E7B29C5F17A00368250 /* monkey.obj in Resources */ = {isa = PBXBuildFile; fileRef = 0D7D6E7A29C5F17A00368250 /* monkey.obj */; };
 		0D7D6E7D29C5F18000368250 /* monkey.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 0D7D6E7C29C5F18000368250 /* monkey.mtl */; };
+		0D7D6E8D29C60EF400368250 /* monkey.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 0D7D6E7C29C5F18000368250 /* monkey.mtl */; };
+		0D7D6E8E29C60EF400368250 /* monkey.obj in Resources */ = {isa = PBXBuildFile; fileRef = 0D7D6E7A29C5F17A00368250 /* monkey.obj */; };
+		0D7D6EA129C60F1100368250 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9429C60F1100368250 /* AppView.swift */; };
+		0D7D6EA229C60F1100368250 /* RenderScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9529C60F1100368250 /* RenderScene.swift */; };
+		0D7D6EA329C60F1100368250 /* Meshes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9629C60F1100368250 /* Meshes.swift */; };
+		0D7D6EA429C60F1100368250 /* Shaders.metal in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9729C60F1100368250 /* Shaders.metal */; };
+		0D7D6EA529C60F1100368250 /* LinearAlgebro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9829C60F1100368250 /* LinearAlgebro.swift */; };
+		0D7D6EA629C60F1100368250 /* Component.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9A29C60F1100368250 /* Component.swift */; };
+		0D7D6EA729C60F1100368250 /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9B29C60F1100368250 /* Camera.swift */; };
+		0D7D6EA829C60F1100368250 /* LearnMetalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9C29C60F1100368250 /* LearnMetalApp.swift */; };
+		0D7D6EA929C60F1100368250 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9E29C60F1100368250 /* ContentView.swift */; };
+		0D7D6EAA29C60F1100368250 /* TriangleMesh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6E9F29C60F1100368250 /* TriangleMesh.swift */; };
+		0D7D6EAB29C60F1100368250 /* Renderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6EA029C60F1100368250 /* Renderer.swift */; };
+		0D7D6EAD29C6111D00368250 /* Materials.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6EAC29C6111D00368250 /* Materials.swift */; };
+		0D7D6EB429C6139100368250 /* cube.obj in Resources */ = {isa = PBXBuildFile; fileRef = 0D7D6EB229C6139100368250 /* cube.obj */; };
+		0D7D6EB529C6139100368250 /* cube.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 0D7D6EB329C6139100368250 /* cube.mtl */; };
+		0D7D6EB729C613BA00368250 /* avatar.png in Resources */ = {isa = PBXBuildFile; fileRef = 0D7D6EB629C613BA00368250 /* avatar.png */; };
 		0DFEF96029C33935002F68D7 /* LearnMetalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF95F29C33935002F68D7 /* LearnMetalApp.swift */; };
 		0DFEF96229C33935002F68D7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF96129C33935002F68D7 /* ContentView.swift */; };
 		0DFEF97929C33D8A002F68D7 /* Renderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF97829C33D8A002F68D7 /* Renderer.swift */; };
@@ -63,6 +80,23 @@
 		0D7D6E7729C5EBE800368250 /* Meshes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meshes.swift; sourceTree = "<group>"; };
 		0D7D6E7A29C5F17A00368250 /* monkey.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = monkey.obj; path = ../../../../../.Trashes/501/Data.dataset/monkey.obj; sourceTree = "<group>"; };
 		0D7D6E7C29C5F18000368250 /* monkey.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = monkey.mtl; path = ../../../../../.Trashes/501/monkey.mtl; sourceTree = "<group>"; };
+		0D7D6E9229C60EF400368250 /* 04-texture.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "04-texture.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D7D6E9429C60F1100368250 /* AppView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		0D7D6E9529C60F1100368250 /* RenderScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RenderScene.swift; sourceTree = "<group>"; };
+		0D7D6E9629C60F1100368250 /* Meshes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meshes.swift; sourceTree = "<group>"; };
+		0D7D6E9729C60F1100368250 /* Shaders.metal */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.metal; path = Shaders.metal; sourceTree = "<group>"; };
+		0D7D6E9829C60F1100368250 /* LinearAlgebro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinearAlgebro.swift; sourceTree = "<group>"; };
+		0D7D6E9929C60F1100368250 /* ShaderTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShaderTypes.h; sourceTree = "<group>"; };
+		0D7D6E9A29C60F1100368250 /* Component.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Component.swift; sourceTree = "<group>"; };
+		0D7D6E9B29C60F1100368250 /* Camera.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
+		0D7D6E9C29C60F1100368250 /* LearnMetalApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LearnMetalApp.swift; sourceTree = "<group>"; };
+		0D7D6E9E29C60F1100368250 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0D7D6E9F29C60F1100368250 /* TriangleMesh.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TriangleMesh.swift; sourceTree = "<group>"; };
+		0D7D6EA029C60F1100368250 /* Renderer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Renderer.swift; sourceTree = "<group>"; };
+		0D7D6EAC29C6111D00368250 /* Materials.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Materials.swift; sourceTree = "<group>"; };
+		0D7D6EB229C6139100368250 /* cube.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cube.obj; sourceTree = "<group>"; };
+		0D7D6EB329C6139100368250 /* cube.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = cube.mtl; sourceTree = "<group>"; };
+		0D7D6EB629C613BA00368250 /* avatar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = avatar.png; path = ../../../../../../../Users/yif/Desktop/avatar.png; sourceTree = "<group>"; };
 		0DFEF95C29C33935002F68D7 /* 01-hello_triangle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "01-hello_triangle.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DFEF95F29C33935002F68D7 /* LearnMetalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnMetalApp.swift; sourceTree = "<group>"; };
 		0DFEF96129C33935002F68D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +108,13 @@
 
 /* Begin PBXFrameworksBuildPhase section */
 		0D7D6E5729C5E63D00368250 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0D7D6E8B29C60EF400368250 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -144,9 +185,41 @@
 			path = Assets;
 			sourceTree = "<group>";
 		};
+		0D7D6E9329C60F1100368250 /* 04-texture */ = {
+			isa = PBXGroup;
+			children = (
+				0D7D6E9D29C60F1100368250 /* Assets */,
+				0D7D6E9429C60F1100368250 /* AppView.swift */,
+				0D7D6E9529C60F1100368250 /* RenderScene.swift */,
+				0D7D6E9629C60F1100368250 /* Meshes.swift */,
+				0D7D6E9829C60F1100368250 /* LinearAlgebro.swift */,
+				0D7D6E9A29C60F1100368250 /* Component.swift */,
+				0D7D6E9B29C60F1100368250 /* Camera.swift */,
+				0D7D6E9C29C60F1100368250 /* LearnMetalApp.swift */,
+				0D7D6E9E29C60F1100368250 /* ContentView.swift */,
+				0D7D6E9F29C60F1100368250 /* TriangleMesh.swift */,
+				0D7D6EA029C60F1100368250 /* Renderer.swift */,
+				0D7D6EAC29C6111D00368250 /* Materials.swift */,
+				0D7D6E9929C60F1100368250 /* ShaderTypes.h */,
+				0D7D6E9729C60F1100368250 /* Shaders.metal */,
+			);
+			path = "04-texture";
+			sourceTree = "<group>";
+		};
+		0D7D6E9D29C60F1100368250 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				0D7D6EB629C613BA00368250 /* avatar.png */,
+				0D7D6EB329C6139100368250 /* cube.mtl */,
+				0D7D6EB229C6139100368250 /* cube.obj */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		0DFEF95329C33935002F68D7 = {
 			isa = PBXGroup;
 			children = (
+				0D7D6E9329C60F1100368250 /* 04-texture */,
 				0D7D6E5D29C5E6C700368250 /* 03-load_obj_model */,
 				0D7D6E3B29C5BB7B00368250 /* 02-transformation */,
 				0DFEF95E29C33935002F68D7 /* 01-hello_triangle */,
@@ -160,6 +233,7 @@
 				0DFEF95C29C33935002F68D7 /* 01-hello_triangle.app */,
 				0DFEF98B29C4BC1A002F68D7 /* 02-transformation.app */,
 				0D7D6E5C29C5E63D00368250 /* 03-load_obj_model.app */,
+				0D7D6E9229C60EF400368250 /* 04-texture.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -194,6 +268,23 @@
 			name = "03-load_obj_model";
 			productName = LearnMetal;
 			productReference = 0D7D6E5C29C5E63D00368250 /* 03-load_obj_model.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0D7D6E7E29C60EF400368250 /* 04-texture */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0D7D6E8F29C60EF400368250 /* Build configuration list for PBXNativeTarget "04-texture" */;
+			buildPhases = (
+				0D7D6E7F29C60EF400368250 /* Sources */,
+				0D7D6E8B29C60EF400368250 /* Frameworks */,
+				0D7D6E8C29C60EF400368250 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "04-texture";
+			productName = LearnMetal;
+			productReference = 0D7D6E9229C60EF400368250 /* 04-texture.app */;
 			productType = "com.apple.product-type.application";
 		};
 		0DFEF95B29C33935002F68D7 /* 01-hello_triangle */ = {
@@ -261,6 +352,7 @@
 				0DFEF95B29C33935002F68D7 /* 01-hello_triangle */,
 				0DFEF97F29C4BC1A002F68D7 /* 02-transformation */,
 				0D7D6E5129C5E63D00368250 /* 03-load_obj_model */,
+				0D7D6E7E29C60EF400368250 /* 04-texture */,
 			);
 		};
 /* End PBXProject section */
@@ -272,6 +364,18 @@
 			files = (
 				0D7D6E7D29C5F18000368250 /* monkey.mtl in Resources */,
 				0D7D6E7B29C5F17A00368250 /* monkey.obj in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0D7D6E8C29C60EF400368250 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D7D6EB429C6139100368250 /* cube.obj in Resources */,
+				0D7D6EB729C613BA00368250 /* avatar.png in Resources */,
+				0D7D6E8D29C60EF400368250 /* monkey.mtl in Resources */,
+				0D7D6EB529C6139100368250 /* cube.mtl in Resources */,
+				0D7D6E8E29C60EF400368250 /* monkey.obj in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,6 +411,25 @@
 				0D7D6E6929C5E6C700368250 /* AppView.swift in Sources */,
 				0D7D6E7229C5E6C700368250 /* Renderer.swift in Sources */,
 				0D7D6E6D29C5E6C700368250 /* Component.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0D7D6E7F29C60EF400368250 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0D7D6EAD29C6111D00368250 /* Materials.swift in Sources */,
+				0D7D6EA829C60F1100368250 /* LearnMetalApp.swift in Sources */,
+				0D7D6EAB29C60F1100368250 /* Renderer.swift in Sources */,
+				0D7D6EA629C60F1100368250 /* Component.swift in Sources */,
+				0D7D6EA929C60F1100368250 /* ContentView.swift in Sources */,
+				0D7D6EA529C60F1100368250 /* LinearAlgebro.swift in Sources */,
+				0D7D6EA729C60F1100368250 /* Camera.swift in Sources */,
+				0D7D6EA229C60F1100368250 /* RenderScene.swift in Sources */,
+				0D7D6EA329C60F1100368250 /* Meshes.swift in Sources */,
+				0D7D6EA429C60F1100368250 /* Shaders.metal in Sources */,
+				0D7D6EA129C60F1100368250 /* AppView.swift in Sources */,
+				0D7D6EAA29C60F1100368250 /* TriangleMesh.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -372,6 +495,66 @@
 			name = Debug;
 		};
 		0D7D6E5B29C5E63D00368250 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"${TARGET_NAME}\"";
+				DEVELOPMENT_TEAM = R825KND2GK;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yif.LearnMetal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "${TARGET_NAME}/ShaderTypes.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		0D7D6E9029C60EF400368250 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"${TARGET_NAME}\"";
+				DEVELOPMENT_TEAM = R825KND2GK;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yif.LearnMetal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "${TARGET_NAME}/ShaderTypes.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0D7D6E9129C60EF400368250 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -645,6 +828,15 @@
 			buildConfigurations = (
 				0D7D6E5A29C5E63D00368250 /* Debug */,
 				0D7D6E5B29C5E63D00368250 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0D7D6E8F29C60EF400368250 /* Build configuration list for PBXNativeTarget "04-texture" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0D7D6E9029C60EF400368250 /* Debug */,
+				0D7D6E9129C60EF400368250 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
