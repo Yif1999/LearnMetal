@@ -10,7 +10,7 @@ import Foundation
 class RenderScene {
     
     var player: Camera
-    var monkey: Component
+    var cube: Component
     
     init() {
         player = Camera(
@@ -18,7 +18,7 @@ class RenderScene {
             eulers: [0.0, 150.0, 0.0]
         )
         
-        monkey = Component(
+        cube = Component(
             position: [3.0, 0.0, 0.0],
             eulers: [0.0, 0.0, 0.0]
         )
@@ -28,9 +28,9 @@ class RenderScene {
         
         player.updateVectors()
         
-        monkey.eulers.z += 1
-        if monkey.eulers.z > 360 {
-            monkey.eulers.z -= 360
+        cube.eulers.z += 1
+        if cube.eulers.z > 360 {
+            cube.eulers.z -= 360
         }
         
     }

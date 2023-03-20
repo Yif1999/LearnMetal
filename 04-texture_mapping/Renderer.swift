@@ -14,9 +14,12 @@ class Renderer: NSObject, MTKViewDelegate {
     var metalDevice: MTLDevice!
     var metalCommandQueue: MTLCommandQueue!
     var allocator: MTKMeshBufferAllocator
+    let materialLoader: MTKTextureLoader
     let pipelineState: MTLRenderPipelineState
+    let depthStencilState: MTLDepthStencilState
     var scene: RenderScene
     let mesh: ObjMesh
+    let material: Material
     
     init(_ parent: ContentView) {
         
@@ -25,9 +28,11 @@ class Renderer: NSObject, MTKViewDelegate {
             self.metalDevice = metalDevice
         }
         self.metalCommandQueue = metalDevice.makeCommandQueue()
-        allocator = MTKMeshBufferAllocator(device: metalDevice)
+        self.allocator = MTKMeshBufferAllocator(device: metalDevice)
+        self.materialLoader = MTKTextureLoader(device: metalDevice)
         
         mesh = ObjMesh(device: metalDevice, allocator: allocator, filename: "cube")
+        material = Material(device: metalDevice, allocator: materialLoader, filename: "avatar")
         
         let pipelineDescriptor = MTLRenderPipelineDescriptor()
         let library = metalDevice.makeDefaultLibrary()
@@ -35,6 +40,12 @@ class Renderer: NSObject, MTKViewDelegate {
         pipelineDescriptor.fragmentFunction = library?.makeFunction(name: "fragmentShader")
         pipelineDescriptor.colorAttachments[0].pixelFormat = .bgra8Unorm
         pipelineDescriptor.vertexDescriptor = MTKMetalVertexDescriptorFromModelIO(mesh.metalMesh.vertexDescriptor)
+        pipelineDescriptor.depthAttachmentPixelFormat = .depth32Float
+        
+        let depthStencilDescriptor = MTLDepthStencilDescriptor ()
+        depthStencilDescriptor.depthCompareFunction = .less
+        depthStencilDescriptor.isDepthWriteEnabled=true
+        depthStencilState = metalDevice.makeDepthStencilState(descriptor: depthStencilDescriptor)!
         
         do {
             try pipelineState = metalDevice.makeRenderPipelineState(descriptor: pipelineDescriptor)
@@ -68,6 +79,7 @@ class Renderer: NSObject, MTKViewDelegate {
         renderPassDescriptor?.colorAttachments[0].storeAction = .store
         
         let renderEncoder = commandBuffer?.makeRenderCommandEncoder(descriptor: renderPassDescriptor!)
+        renderEncoder?.setDepthStencilState(depthStencilState)
         
         var cameraData: CameraParameters = CameraParameters()
         cameraData.view = Matrix44.create_lookat(
@@ -86,10 +98,12 @@ class Renderer: NSObject, MTKViewDelegate {
     
         renderEncoder?.setRenderPipelineState(pipelineState)
         renderEncoder?.setVertexBuffer(mesh.metalMesh.vertexBuffers[0].buffer, offset: 0, index: 0)
+        renderEncoder?.setFragmentTexture(material.texture, index: 0)
+        renderEncoder?.setFragmentSamplerState(material.sampler, index: 0)
         
         for submesh in mesh.metalMesh.submeshes {
             renderEncoder?.drawIndexedPrimitives(
-                type: .line, indexCount: submesh.indexCount,
+                type: .triangle, indexCount: submesh.indexCount,
                 indexType: submesh.indexType, indexBuffer: submesh.indexBuffer.buffer,
                 indexBufferOffset: submesh.indexBuffer.offset
             )

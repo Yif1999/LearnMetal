@@ -19,10 +19,15 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>04-texture.xcscheme_^#shared#^_</key>
+		<key>04-texture_mapping.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>3</integer>
+		</dict>
+		<key>05-simple_lighting.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
