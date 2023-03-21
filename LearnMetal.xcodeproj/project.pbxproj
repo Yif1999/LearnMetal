@@ -61,6 +61,19 @@
 		0D7D6EF029C705CF00368250 /* Renderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6EE229C705CF00368250 /* Renderer.swift */; };
 		0D7D6EF229C7069200368250 /* Entities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6EF129C7069200368250 /* Entities.swift */; };
 		0D7D6EF429C7075F00368250 /* Lights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7D6EF329C7075F00368250 /* Lights.swift */; };
+		0DD404EA29C9E429009D8149 /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD404D729C9E429009D8149 /* GameViewController.m */; };
+		0DD404EB29C9E429009D8149 /* Textures.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0DD404D929C9E429009D8149 /* Textures.xcassets */; };
+		0DD404EC29C9E429009D8149 /* Shaders.metal in Sources */ = {isa = PBXBuildFile; fileRef = 0DD404DA29C9E429009D8149 /* Shaders.metal */; };
+		0DD404ED29C9E429009D8149 /* Temple.obj in Resources */ = {isa = PBXBuildFile; fileRef = 0DD404DB29C9E429009D8149 /* Temple.obj */; };
+		0DD404EE29C9E429009D8149 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DD404DC29C9E429009D8149 /* LaunchScreen.storyboard */; };
+		0DD404EF29C9E429009D8149 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0DD404DE29C9E429009D8149 /* Main.storyboard */; };
+		0DD404F029C9E429009D8149 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD404E229C9E429009D8149 /* main.m */; };
+		0DD404F129C9E429009D8149 /* Temple.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 0DD404E329C9E429009D8149 /* Temple.mtl */; };
+		0DD404F229C9E429009D8149 /* AAPLMesh.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD404E429C9E429009D8149 /* AAPLMesh.m */; };
+		0DD404F329C9E429009D8149 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD404E529C9E429009D8149 /* AppDelegate.m */; };
+		0DD404F429C9E429009D8149 /* Renderer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD404E629C9E429009D8149 /* Renderer.m */; };
+		0DD404F529C9E429009D8149 /* AAPLMathUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD404E829C9E429009D8149 /* AAPLMathUtilities.m */; };
+		0DD404FD29C9F675009D8149 /* info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0DD404FC29C9F675009D8149 /* info.plist */; };
 		0DFEF96029C33935002F68D7 /* LearnMetalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF95F29C33935002F68D7 /* LearnMetalApp.swift */; };
 		0DFEF96229C33935002F68D7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF96129C33935002F68D7 /* ContentView.swift */; };
 		0DFEF97929C33D8A002F68D7 /* Renderer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DFEF97829C33D8A002F68D7 /* Renderer.swift */; };
@@ -130,6 +143,26 @@
 		0D7D6EE229C705CF00368250 /* Renderer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Renderer.swift; sourceTree = "<group>"; };
 		0D7D6EF129C7069200368250 /* Entities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Entities.swift; sourceTree = "<group>"; };
 		0D7D6EF329C7075F00368250 /* Lights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lights.swift; sourceTree = "<group>"; };
+		0DD404D329C9E3D1009D8149 /* 06-cook_torrance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "06-cook_torrance.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0DD404D529C9E429009D8149 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0DD404D629C9E429009D8149 /* AAPLMesh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPLMesh.h; sourceTree = "<group>"; };
+		0DD404D729C9E429009D8149 /* GameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
+		0DD404D829C9E429009D8149 /* Renderer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Renderer.h; sourceTree = "<group>"; };
+		0DD404D929C9E429009D8149 /* Textures.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Textures.xcassets; sourceTree = "<group>"; };
+		0DD404DA29C9E429009D8149 /* Shaders.metal */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.metal; path = Shaders.metal; sourceTree = "<group>"; };
+		0DD404DB29C9E429009D8149 /* Temple.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Temple.obj; sourceTree = "<group>"; };
+		0DD404DD29C9E429009D8149 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0DD404DF29C9E429009D8149 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0DD404E029C9E429009D8149 /* AAPLMathUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AAPLMathUtilities.h; sourceTree = "<group>"; };
+		0DD404E129C9E429009D8149 /* ShaderTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShaderTypes.h; sourceTree = "<group>"; };
+		0DD404E229C9E429009D8149 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0DD404E329C9E429009D8149 /* Temple.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Temple.mtl; sourceTree = "<group>"; };
+		0DD404E429C9E429009D8149 /* AAPLMesh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPLMesh.m; sourceTree = "<group>"; };
+		0DD404E529C9E429009D8149 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0DD404E629C9E429009D8149 /* Renderer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Renderer.m; sourceTree = "<group>"; };
+		0DD404E729C9E429009D8149 /* GameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
+		0DD404E829C9E429009D8149 /* AAPLMathUtilities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAPLMathUtilities.m; sourceTree = "<group>"; };
+		0DD404FC29C9F675009D8149 /* info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = info.plist; sourceTree = "<group>"; };
 		0DFEF95C29C33935002F68D7 /* 01-hello_triangle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "01-hello_triangle.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DFEF95F29C33935002F68D7 /* LearnMetalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnMetalApp.swift; sourceTree = "<group>"; };
 		0DFEF96129C33935002F68D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -155,6 +188,13 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		0D7D6EC929C7059000368250 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0DD404CC29C9E3D1009D8149 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -288,10 +328,45 @@
 			path = Assets;
 			sourceTree = "<group>";
 		};
+		0DD404D429C9E429009D8149 /* 06-cook_torrance */ = {
+			isa = PBXGroup;
+			children = (
+				0DD404FC29C9F675009D8149 /* info.plist */,
+				0DD404F729C9E529009D8149 /* Assets */,
+				0DD404E029C9E429009D8149 /* AAPLMathUtilities.h */,
+				0DD404D629C9E429009D8149 /* AAPLMesh.h */,
+				0DD404D829C9E429009D8149 /* Renderer.h */,
+				0DD404D529C9E429009D8149 /* AppDelegate.h */,
+				0DD404E729C9E429009D8149 /* GameViewController.h */,
+				0DD404E429C9E429009D8149 /* AAPLMesh.m */,
+				0DD404D729C9E429009D8149 /* GameViewController.m */,
+				0DD404E829C9E429009D8149 /* AAPLMathUtilities.m */,
+				0DD404E529C9E429009D8149 /* AppDelegate.m */,
+				0DD404E629C9E429009D8149 /* Renderer.m */,
+				0DD404E229C9E429009D8149 /* main.m */,
+				0DD404E129C9E429009D8149 /* ShaderTypes.h */,
+				0DD404DA29C9E429009D8149 /* Shaders.metal */,
+				0DD404DE29C9E429009D8149 /* Main.storyboard */,
+				0DD404DC29C9E429009D8149 /* LaunchScreen.storyboard */,
+			);
+			path = "06-cook_torrance";
+			sourceTree = "<group>";
+		};
+		0DD404F729C9E529009D8149 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				0DD404DB29C9E429009D8149 /* Temple.obj */,
+				0DD404E329C9E429009D8149 /* Temple.mtl */,
+				0DD404D929C9E429009D8149 /* Textures.xcassets */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
 		0DFEF95329C33935002F68D7 = {
 			isa = PBXGroup;
 			children = (
 				0D7D6EB829C6FDE600368250 /* README.md */,
+				0DD404D429C9E429009D8149 /* 06-cook_torrance */,
 				0D7D6ED229C705CF00368250 /* 05-simple_lighting */,
 				0D7D6E9329C60F1100368250 /* 04-texture_mapping */,
 				0D7D6E5D29C5E6C700368250 /* 03-load_obj_model */,
@@ -309,6 +384,7 @@
 				0D7D6E5C29C5E63D00368250 /* 03-load_obj_model.app */,
 				0D7D6E9229C60EF400368250 /* 04-texture_mapping.app */,
 				0D7D6ED129C7059000368250 /* 05-simple_lighting.app */,
+				0DD404D329C9E3D1009D8149 /* 06-cook_torrance.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -379,6 +455,23 @@
 			productReference = 0D7D6ED129C7059000368250 /* 05-simple_lighting.app */;
 			productType = "com.apple.product-type.application";
 		};
+		0DD404BC29C9E3D1009D8149 /* 06-cook_torrance */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0DD404D029C9E3D1009D8149 /* Build configuration list for PBXNativeTarget "06-cook_torrance" */;
+			buildPhases = (
+				0DD404BD29C9E3D1009D8149 /* Sources */,
+				0DD404CC29C9E3D1009D8149 /* Frameworks */,
+				0DD404CD29C9E3D1009D8149 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "06-cook_torrance";
+			productName = LearnMetal;
+			productReference = 0DD404D329C9E3D1009D8149 /* 06-cook_torrance.app */;
+			productType = "com.apple.product-type.application";
+		};
 		0DFEF95B29C33935002F68D7 /* 01-hello_triangle */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0DFEF96A29C33936002F68D7 /* Build configuration list for PBXNativeTarget "01-hello_triangle" */;
@@ -446,6 +539,7 @@
 				0D7D6E5129C5E63D00368250 /* 03-load_obj_model */,
 				0D7D6E7E29C60EF400368250 /* 04-texture_mapping */,
 				0D7D6EBB29C7059000368250 /* 05-simple_lighting */,
+				0DD404BC29C9E3D1009D8149 /* 06-cook_torrance */,
 			);
 		};
 /* End PBXProject section */
@@ -476,6 +570,19 @@
 			files = (
 				0D7D6EEC29C705CF00368250 /* cube.mtl in Resources */,
 				0D7D6EEB29C705CF00368250 /* cube.obj in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0DD404CD29C9E3D1009D8149 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0DD404EE29C9E429009D8149 /* LaunchScreen.storyboard in Resources */,
+				0DD404ED29C9E429009D8149 /* Temple.obj in Resources */,
+				0DD404FD29C9F675009D8149 /* info.plist in Resources */,
+				0DD404F129C9E429009D8149 /* Temple.mtl in Resources */,
+				0DD404EB29C9E429009D8149 /* Textures.xcassets in Resources */,
+				0DD404EF29C9E429009D8149 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -554,6 +661,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		0DD404BD29C9E3D1009D8149 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0DD404F229C9E429009D8149 /* AAPLMesh.m in Sources */,
+				0DD404EC29C9E429009D8149 /* Shaders.metal in Sources */,
+				0DD404F429C9E429009D8149 /* Renderer.m in Sources */,
+				0DD404F529C9E429009D8149 /* AAPLMathUtilities.m in Sources */,
+				0DD404F029C9E429009D8149 /* main.m in Sources */,
+				0DD404EA29C9E429009D8149 /* GameViewController.m in Sources */,
+				0DD404F329C9E429009D8149 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0DFEF95829C33935002F68D7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -583,6 +704,25 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0DD404DC29C9E429009D8149 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0DD404DD29C9E429009D8149 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		0DD404DE29C9E429009D8149 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0DD404DF29C9E429009D8149 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		0D7D6E5A29C5E63D00368250 /* Debug */ = {
@@ -747,6 +887,66 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yif.LearnMetal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "${TARGET_NAME}/ShaderTypes.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		0DD404D129C9E3D1009D8149 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"${TARGET_NAME}\"";
+				DEVELOPMENT_TEAM = R825KND2GK;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "${TARGET_NAME}/info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yif.LearnMetal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "${TARGET_NAME}/ShaderTypes.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0DD404D229C9E3D1009D8149 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"${TARGET_NAME}\"";
+				DEVELOPMENT_TEAM = R825KND2GK;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "${TARGET_NAME}/info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -1027,6 +1227,15 @@
 			buildConfigurations = (
 				0D7D6ECF29C7059000368250 /* Debug */,
 				0D7D6ED029C7059000368250 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0DD404D029C9E3D1009D8149 /* Build configuration list for PBXNativeTarget "06-cook_torrance" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0DD404D129C9E3D1009D8149 /* Debug */,
+				0DD404D229C9E3D1009D8149 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
